@@ -34,9 +34,9 @@ Android App Development Resources :email: :computer: :speaker: :tv:
 
 - KotlinConf </br> _A conference about everything Kotlin_  [:ticket:](https://kotlinconf.com) [:tv:](https://www.youtube.com/user/JetBrainsTV)
 
-- droidcon </br> _droidcon is your place for all things AndroidDev!_ [:ticket:](https://www.droidcon.com)
-
 - Android Makers </br> _Where the Android dream comes true!_ [:ticket:](https://androidmakers.fr) [:computer:](https://androidmakers.fr/blog/) [:tv:](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
+
+- droidcon </br> _droidcon is your place for all things AndroidDev!_ [:ticket:](https://www.droidcon.com)
 
 - Google I/O </br> _Annual developer conference held by Google in Mountain View, California_ [:ticket:](https://events.google.com/io/)
 

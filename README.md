@@ -1,5 +1,5 @@
 # AndroidDevResources
-Android App Development Resources
+Android App Development Resources :email: :computer: :speaker: :tv:
 
 ## Newsletters
 

@@ -3,23 +3,16 @@ Android App Development Resources
 
 ## Newsletters
 
-- [Kotlin Weekly](http://www.kotlinweekly.net)
-- [Android Weekly](https://androidweekly.net)
+- Kotlin Weekly: [Subscribe](http://www.kotlinweekly.net)
+- Android Weekly: [Subscribe](https://androidweekly.net)
 
-## Blogs
+## Podcasts - Blogs - Youtube Channels
 
-- [Nate Ebel](https://goobar.io)
-- [Coding in Flow](https://codinginflow.com)
-- [Now in Android](https://medium.com/androiddevelopers/tagged/now-in-android)
-- [Coding with Mitch](https://codingwithmitch.com)
+- Goobar.io: [Read](https://goobar.io) - [Watch](https://goobar.io)
+- Fragmented Podcast: [Listen](https://fragmentedpodcast.com)
+- Coding in Flow: [Read](https://codinginflow.com) - [Watch](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
+- Coding with Mitch: [Read](https://codingwithmitch.com) - [Watch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
+- Now in Android: [Read](https://medium.com/androiddevelopers/tagged/now-in-android) - [Watch](https://www.youtube.com/user/androiddevelopers) - [Listen](http://nowinandroid.googledevelopers.libsynpro.com)
+- Android Developers Backstage: [Listen](http://androidbackstage.blogspot.com)
 
 
-## Podcasts
-
-- [Now in Android](http://nowinandroid.googledevelopers.libsynpro.com)
-- [Fragmented Podcast](https://fragmentedpodcast.com)
-- [Android Developers Backstage](http://androidbackstage.blogspot.com)
-
-## Youtube Channels
-
-- [Android Developers](https://www.youtube.com/user/androiddevelopers)

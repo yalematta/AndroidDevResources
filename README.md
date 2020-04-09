@@ -26,18 +26,19 @@ Android App Development Resources :email: :computer: :speaker: :tv:
 
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug) </br> _Bite-sized conversations with people from the Android community_ [:tv:](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
 
+
 ## Conferences
 
-- 360|AnDev </br> _The Android Community Event_ [:ticket:](http://360andev.com) [:tv:](https://www.youtube.com/channel/UCE56f_Yd4M9P6WlgdTeuuXQ)
+- [360|AnDev](http://360andev.com) </br> _The Android Community Event_ [:ticket:](http://360andev.com) [:tv:](https://www.youtube.com/channel/UCE56f_Yd4M9P6WlgdTeuuXQ)
 
-- Conference for Kotliners </br> _A Conference for everything Kotlin_ [:ticket:](https://kotliners.com/conference) [:tv:](https://www.youtube.com/channel/UCk680H4N8NHgbKvvtAtR9tg)
+- [Conference for Kotliners](https://kotliners.com/conference) </br> _A Conference for everything Kotlin_ [:ticket:](https://kotliners.com/conference) [:tv:](https://www.youtube.com/channel/UCk680H4N8NHgbKvvtAtR9tg)
 
-- KotlinConf </br> _A conference about everything Kotlin_  [:ticket:](https://kotlinconf.com) [:tv:](https://www.youtube.com/user/JetBrainsTV)
+- [KotlinConf](https://kotlinconf.com) </br> _A conference about everything Kotlin_  [:ticket:](https://kotlinconf.com) [:tv:](https://www.youtube.com/user/JetBrainsTV)
 
-- Android Makers </br> _Where the Android dream comes true!_ [:ticket:](https://androidmakers.fr) [:computer:](https://androidmakers.fr/blog/) [:tv:](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
+- [Android Makers](https://androidmakers.fr) </br> _Where the Android dream comes true!_ [:ticket:](https://androidmakers.fr) [:computer:](https://androidmakers.fr/blog/) [:tv:](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
 
-- droidcon </br> _droidcon is your place for all things AndroidDev!_ [:ticket:](https://www.droidcon.com)
+- [droidcon](https://www.droidcon.com) </br> _droidcon is your place for all things AndroidDev!_ [:ticket:](https://www.droidcon.com)
 
-- Google I/O </br> _Annual developer conference held by Google in Mountain View, California_ [:ticket:](https://events.google.com/io/)
+- [Google I/O](https://events.google.com/io/) </br> _Annual developer conference held by Google in Mountain View, California_ [:ticket:](https://events.google.com/io/)
 
 
